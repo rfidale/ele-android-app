@@ -1,2 +1,2 @@
 # ele-android-app
-Reflect Finance dashboard for store publishing
+Elevate Finance dashboard for store publishing
