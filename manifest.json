@@ -1,16 +1,94 @@
 {
-    "dir": "ltr",
-    "lang": "English",
-    "name": "",
-    "short_name": "",
-    "scope": "/ele-mobile-app/",
-    "display": "standalone",
-    "start_url": "https://rfidale.github.io/ele-mobile-app/",
-    "background_color": "transparent",
-    "theme_color": "transparent",
-    "description": "",
-    "orientation": "portrait",
-    "related_applications": [],
-    "prefer_related_applications": false,
-    "icons": []
+	"dir" : "ltr",
+	"lang" : "English",
+	"name" : "Elevate DeFi",
+	"scope" : "/",
+	"display" : "portrait",
+	"start_url" : "https://eledash.blockpour.com/",
+	"short_name" : "Elevate",
+	"theme_color" : "transparent",
+	"description" : "This is the dashboard for Elevate DeFi. View stats, stake tokens and more! Elevate introduces a new transactionless inflation mechanism that combines with automatic fee distribution and aggressive token burning mechanics to create a diverse and sustainable yield bearing DeFi token.",
+	"orientation" : "portrait",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "icon.png",
+			"sizes": "44x44"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "1240x600"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "300x300"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "150x150"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "88x88"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "24x24"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "50x50"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "620x300"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "36x36"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "1024x1024"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "180x180"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "120x120"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "76x76"
+		}],
+	"url" : "https://eledash.blockpour.com/",
+	"screenshots" : [],
+	"generated" : ""
 }
