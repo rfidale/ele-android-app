@@ -2,7 +2,7 @@
 	"dir" : "ltr",
 	"lang" : "English",
 	"name" : "Elevate DeFi",
-	"scope" : "/",
+	"scope" : "page-content",
 	"display" : "portrait",
 	"start_url" : "https://eledash.blockpour.com/",
 	"short_name" : "Elevate",
